@@ -5,7 +5,7 @@ const students = [
     { id: "28-09121", name: "Omar Sherif", github_username: "osheriff", email: "omarr@whatever.com" },
     { id: "21-094123", name: "Mathew White", github_username: "matheww", email: "matheww@whatever.com" },
     { id: "15-10312", name: "Dom Sundle", github_username: "domss", email: "domss.whatever.com" },
-    { id: "7223", name: "Gehad Ismail", github_username: "Gehad93", email: "gehad.ismail@guc.edu.eg" }
+    { { id: "40-12472", name: "mahmoud eslam", github_username: "Elbekoo", email: "mahmoud.elbadawy@student.guc.edu.eg" }
 ];
 
 app.get('/', (request, response) => {
